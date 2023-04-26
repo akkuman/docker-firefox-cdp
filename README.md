@@ -12,3 +12,5 @@ The motivation for doing this is that chrome is not officially compatible with a
 docker run -dp 9222:80 akkuman/firefox-cdp
 # or docker run -dp 9222:80 ghcr.io/akkuman/firefox-cdp
 ```
+
+if you use [chromedp/chromedp](https://github.com/chromedp/chromedp), you need to see https://github.com/chromedp/chromedp/issues/837

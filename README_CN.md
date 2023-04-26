@@ -10,3 +10,5 @@
 docker run -dp 9222:80 akkuman/firefox-cdp
 # 或者 docker run -dp 9222:80 ghcr.io/akkuman/firefox-cdp
 ```
+
+如果你使用 [chromedp/chromedp](https://github.com/chromedp/chromedp), 你应该先看看 https://github.com/chromedp/chromedp/issues/837
