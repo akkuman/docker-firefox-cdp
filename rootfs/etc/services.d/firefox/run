@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv sh
+
+firefox --headless --remote-debugging-port 9222
